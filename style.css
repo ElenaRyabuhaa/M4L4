@@ -1,0 +1,64 @@
+body {
+    font-family: sans-serif;
+    padding: 5 px;
+}
+
+header {
+    background-color: MidnightBlue;
+}
+
+header b {
+    color: LightCyan;
+}
+
+header img {
+    margin: 10px;
+}
+
+header a {
+    color: lightcyan;
+}
+
+main h1 {
+    color: MidnightBlue;
+    text-align: center;
+    font-size: 36px;
+}
+
+footer {
+    background-color: midnightblue;
+    padding: 5px;
+}
+
+footer p {
+    background-color: lightcyan;
+    color: midnightblue;
+    font-size: 14px;
+}
+
+nav {
+    border: 2px solid midnightblue;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    background-color: lightcyan;
+}
+
+nav a {
+    margin: 20px;
+    text-decoration: none;
+    color: midnightblue;
+}
+
+.prod{
+    background-color: lightcyan;
+}
+
+.tel {
+    border: 2px solid midnightblue;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 5px;
+    text-decoration: none;
+    color: midnightblue;
+}
